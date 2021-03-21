@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-garden",
+  "name": "Stern Bert",
   "version": "1.0.0",
-  "description": "A starter site for building a mind garden in eleventy.",
+  "description": "An experiment in digital gardening.",
   "scripts": {
     "start": "eleventy --serve",
     "compile": "eleventy"
